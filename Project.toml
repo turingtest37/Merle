@@ -1,0 +1,9 @@
+name = "Merle"
+uuid = "294cfab1-caf5-45ba-8091-3cd1c6d109d5"
+authors = ["dbeeson <dbeeson@mit.edu>"]
+version = "0.1.0"
+
+[deps]
+Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+Lerche = "d42ef402-04e6-4356-9f73-091573ea58dc"
+PkgTemplates = "14b8a8f1-9102-5b29-a752-f990bacb7fe1"
